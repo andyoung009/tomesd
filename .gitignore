@@ -101,6 +101,7 @@ dotenv/local.env
 dotenv/secrets.env
 dotenv/locals/
 work
+stablediffusion/
 
 # Spyder project settings
 .spyderproject
